@@ -63,14 +63,3 @@ Simulate an Employee Management System using hierarchical inheritance.
    - `Manager`: Includes functionality to add and calculate bonuses based on performance ratings.
    - `Developer`: Includes functionality to add and calculate overtime compensation based on extra hours worked.
 3. Allow input for both types of employees and display their total earnings.
-
----
-
-### Usage
-Each exercise is implemented in a separate file. You can run the programs individually to test the functionalities. Detailed comments are included in the code for better understanding.
-
-### Contributing
-Feel free to fork this repository and submit pull requests for improvements or additional features.
-
-### License
-This repository is open-sourced under the MIT License.
