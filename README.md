@@ -3,11 +3,6 @@
 
 # DAY-1
 
-# Programming Exercises
-
-This repository contains solutions to various programming exercises designed to practice concepts such as loops, function overloading, polymorphism, and inheritance.
-
----
 
 ## 1. **Sum of Odd Numbers up to N**
 ### Objective
